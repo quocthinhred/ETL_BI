@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BI_BTVN_W7_SourceToStage", "BI_BTVN_W7\BI_BTVN_W7_SourceToStage.dtproj", "{29CFF398-469B-4D39-9D75-B074BE783CB6}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BI_BTVN_W7_StageToNDS", "BI_BTVN_W7_StageToNDS\BI_BTVN_W7_StageToNDS.dtproj", "{4EE20773-544E-43BD-9308-E72432F15E00}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BI_BTVN_W8_NDSToDDS", "BI_BTVN_W8_NDSToDDS\BI_BTVN_W8_NDSToDDS.dtproj", "{5DDE6B9B-0672-49D8-9D62-11E44832A18A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CFF398-469B-4D39-9D75-B074BE783CB6}.Development|Default.ActiveCfg = Development
+		{29CFF398-469B-4D39-9D75-B074BE783CB6}.Development|Default.Build.0 = Development
+		{4EE20773-544E-43BD-9308-E72432F15E00}.Development|Default.ActiveCfg = Development
+		{4EE20773-544E-43BD-9308-E72432F15E00}.Development|Default.Build.0 = Development
+		{5DDE6B9B-0672-49D8-9D62-11E44832A18A}.Development|Default.ActiveCfg = Development
+		{5DDE6B9B-0672-49D8-9D62-11E44832A18A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F50ED29-5A05-490F-B3C2-9856413F4202}
+	EndGlobalSection
+EndGlobal
